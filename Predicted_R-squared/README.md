@@ -3,4 +3,4 @@
  An awesome metric you haven't heard of!
 
 ## Step by Step Guide:
-http://
+https://iamjustastudent.com/2020/09/07/predicted-r-squared-an-awesome-metric-you-havent-heard-of/
