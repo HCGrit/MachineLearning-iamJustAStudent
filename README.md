@@ -1,3 +1,2 @@
-# MachineLearning-iamJustAStudent
-I Am Just A Student : Let's study AI/ML together.<br/>
-#iamJustAStudent : http://iamjustastudent.com
+# MachineLearning
+Let's study AI/ML together.
